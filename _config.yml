@@ -3,22 +3,20 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Stylianos Loukas
+middle_name: 
+last_name: Vasileiou
+email: v.stylianos@wustl.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal website.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
-keywords: # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-
+lang: en
+icon: "Σ" # the emoji used as the favicon
 url: https://vstylianos.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -38,8 +36,6 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
-
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
@@ -48,9 +44,10 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
+
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
@@ -67,43 +64,22 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: # your X handle
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+twitter_username: TheStLucas # your Twitter handle
 linkedin_username: # your LinkedIn user name
-telegram_username: # your Telegram user name
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
-scopus_id: # your profile on Scopus
-flickr_id: # your flickr id
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
-stackoverflow_id: # your stackoverflow id
-kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-discord_id: # your discord id (18-digit unique numerical identifier)
-zotero_username: # your zotero username
-wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+#contact_note: >
+ # You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -122,7 +98,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: stl # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -134,31 +110,6 @@ related_blog_posts:
   enabled: true
   max_related: 5
 
-# Giscus comments (RECOMMENDED)
-# Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
-giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
-  category: Comments # name of the category under which discussions will be created
-  category_id: # leave empty or specify your category_id (see https://giscus.app/)
-  mapping: title # identify discussions by post title
-  strict: 1 # use strict identification mode
-  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
-  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
-  emit_metadata: 0
-  lang: en
-
-# Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-
-# External sources.
-# If you have blog posts published on medium.com or other external sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -172,7 +123,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /thoughts/:path/
 
 announcements:
   enabled: true
@@ -204,24 +155,20 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - bin/
+  - bin
   - CONTRIBUTING.md
   - CUSTOMIZE.md
-  - Dockerfile
   - docker-compose.yml
-  - docker-compose-slim.yml
+  - Dockerfile
   - FAQ.md
   - Gemfile
   - Gemfile.lock
   - INSTALL.md
   - LICENSE
-  - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
-  - readme_preview/
   - vendor
 keep_files:
   - CNAME
@@ -281,13 +228,14 @@ jekyll-archives:
 display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
 display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
 
+
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: Vasileiou
+  first_name: Stylianos, Loukas
 
   style: apa
   locale: en
@@ -338,6 +286,7 @@ external_links:
   target: _blank
   exclude:
 
+
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
@@ -373,6 +322,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
+
 enable_google_analytics: false # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_google_verification: false # enables google site verification
@@ -389,6 +339,7 @@ enable_progressbar: true # enables a horizontal progress bar linked to the verti
 # -----------------------------------------------------------------------------
 # Library versions
 # -----------------------------------------------------------------------------
+
 
 bootstrap-table:
   version: "1.22.1"
@@ -456,6 +407,8 @@ vega-embed:
 vega-lite:
   version: "5.16.3"
   integrity: "sha256-TvBvIS5jUN4BSy009usRjNzjI1qRrHPYv7xVLJyjUyw="
+
+
 
 # -----------------------------------------------------------------------------
 # Get external JSON data
