@@ -12,9 +12,9 @@ layout: default
   </article>
 
   {% if page.related_publications %}
-    <h2>References</h2>
+    <h2>selected publications</h2>
     <div class="publications">
-      {% bibliography --cited_in_order %}
+      {% bibliography --cited_in_order --group_by none %}
     </div>
   {% endif %}
 

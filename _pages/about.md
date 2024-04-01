@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+     <p>  <a href="mailto:v.stylianos@wustl.edu" class="fas fa-envelope"> <a/>  <a href="https://twitter.com/the_logicizer"  class="fab fa-twitter" target="_blank"> <a/> </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate at the Department of Computer Science and Engineering at Washington University in St. Louis, supervised by the amazing [William Yeoh](https://sites.wustl.edu/wyeoh/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research is anchored in the realm of human-aware AI, with a pointed focus on using logic-based techniques to augment the explainability of systems involved in sequential decision-making. My overarching goal is to engineer AI agents that can engage and cooperate with humans in a manner that is as intuitive and natural as human-to-human interaction.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Within a preceding historical epoch, I received a MSc. in Artificial Intelligence from the University of Southampton (UK), supervised by [Long Tran-Thanh](https://human-agentlearning.github.io/HAL-LAB.html), a MSc. in Applied Mathematics from the University of Glasgow (UK), supervised by [Radostin Simitev](https://www.maths.gla.ac.uk/~rs/), and finally a BSc. in Statistics and Actuarial-Financial Mathematics from the University of the Aegean (GR), supervised by [Nikolaos Kavallaris](https://www.kau.se/forskare/nikos-kavallaris).
+
