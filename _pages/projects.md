@@ -14,7 +14,7 @@ horizontal: false
 <figure style="position: relative; width: 100%; height: auto;">
     <img class="img-fluid rounded z-depth-1" style="float: left; margin-right: 10px; width: 240px; height: 240px;" src="{{ '/assets/img/HAI_logo.png' | relative_url }}" alt="" title="haxp image"/>
     <figcaption style="text-align:left; margin-left: 5px;">
-      My research interests are currently surrounding Human-Aware AI, that is, an area in AI concerning the design of AI agents that can interact (in some manner) with humans in a natural fashion. Specifically, I've been using logic-based techniques to create explanation generation frameworks for various problems, such as planning and scheduling. Why logic? In short, because it's expressive, offers structured semantics, and it's traceable. Below you can see some of the projects I have (or still am) working on.    
+      My research interests are currently surrounding Human-Aware AI, that is, an area in AI concerning the design of AI agents that can interact (in some manner) with humans in a natural fashion. Specifically, I've been using logic-based techniques to create explanation generation frameworks for various problems, such as planning and scheduling. Why logic? In short, because it's expressive, offers structured semantics, and it's traceable. Below you can see some of the projects related to my research.
     </figcaption>
     <div style="clear: both;"></div>
 </figure>
@@ -78,6 +78,3 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
-
-
-
