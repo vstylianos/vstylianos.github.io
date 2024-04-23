@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate at the Department of Computer Science and Engineering at Washington University in St. Louis, supervised by the amazing [William Yeoh](https://sites.wustl.edu/wyeoh/). 
+I am a PhD candidate at the Department of Computer Science and Engineering at Washington University in St. Louis, supervised by the amazing [William Yeoh](https://yeoh-lab.wustl.edu/). 
 
 My current research is anchored in the realm of human-aware AI, with a pointed focus on using logic-based techniques to augment the explainability of systems involved in sequential decision-making. My overarching goal is to engineer AI agents that can engage and cooperate with humans in a manner that is as intuitive and natural as human-to-human interaction.
 
