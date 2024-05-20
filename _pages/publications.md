@@ -16,10 +16,10 @@ Preprints
 <ul> 
 <li><strong>On Generating Monolithic and Model Reconciling Explanations in Probabilistic Scenarios</strong> <br> 
 Stylianos Loukas Vasileiou, William Yeoh, Alessandro Previti, and Tran Cao Son </li>
-<li><strong>Approximating Human Mental Models During Argumentation-based Dialogues</strong> <br> 
-Yinxu Tang, Stylianos Loukas Vasileiou, and William Yeoh </li>
 <li><strong>Explanation-based Belief Revision: Moving Beyond Minimalism to Explanatory Understanding</strong> <br> 
 Stylianos Loukas Vasileiou, and William Yeoh </li>
+<li><strong>Dialectical Reconciliation via Structured Argumentative Dialogues</strong> <br> 
+Stylianos Loukas Vasileiou, Ashwin Kumar, William Yeoh, Tran Cao Son, and Francesca Toni </li>
 </ul>
 
 <h3>
