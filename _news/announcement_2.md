@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2023-07-15 07:59:00-0400
+date: 2024-01-25 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-
-Papers on [personalized explanations](/assets/pdf/papers/please_ecai.pdf) and [explainable scheduling](/assets/pdf/papers/queries_ecai.pdf) accepted at ECAI 2023.
+Excited to co-organize the Human-Aware and Explainable Planning (HAXP) workshop again, collocated with ICAPS 2024 in Banff, Canada. Do consider [submitting](https://haxp-icaps.web.app/) your work!
