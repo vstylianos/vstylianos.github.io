@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: research
 permalink: /projects/
 description: 
@@ -7,14 +7,24 @@ nav: true
 nav_order: 2
 display_categories: 
 horizontal: false
+selected_papers: true
 ---
 
 
 
 <figure style="position: relative; width: 100%; height: auto;">
-    <img class="img-fluid rounded z-depth-1" style="float: left; margin-right: 10px; width: 240px; height: 240px;" src="{{ '/assets/img/HAI_logo.png' | relative_url }}" alt="" title="haxp image"/>
+    <img class="img-fluid rounded z-depth-1" style="float: left; margin-right: 25px; width: 240px; height: 240px;" src="{{ '/assets/img/HAI_logo.png' | relative_url }}" alt="" title="haxp image"/>
     <figcaption style="text-align:left; margin-left: 5px;">
-      My biggest research interest is centered on developing principled Human-Aware AI systems that are not only sufficiently general and expressive, but also computationally efficient, robust, and personalizable. Developing such systems requires a confluence of disciplines including planning, logic, argumentation, belief revision, probabilistic reasoning, and machine learning, as well as philosophy, cognitive science, and psychology. One day, I hope to create AI systems that can seamlessly integrate into various real-world scenarios and pave the way for more intuitive, efficient, and trustworthy collaborative intelligence.
+      My current research agenda focuses on developing human-aware AI systems that can: 
+
+      <ul>
+          <li>Engage in collaborative problem-solving with human users.</li>
+          <li>Provide natural and intuitive explanations for their decisions and behaviors.</li>
+          <li>Dynamically update their world models through interactions with users and the environment.</li>
+          <li>Infer and adapt to evolving users' (mental) models, such as their knowledge, beliefs, and goals.</li>
+      </ul>
+
+      To achieve this, I draw techniques from the realms of formal logic, planning, argumentation, belief revision, machine learning, as well as philosophy, cognitive science, and psychology. Ultimately, I aim to create AI systems that can seamlessly integrate into various real-world scenarios, paving the way for more intuitive, efficient, and trustworthy human-AI collaborative intelligence.  
 
 
       <!-- Why formal languages? In short, because they: enable comprehensive examination of their internal properties through both internal verification methods and external conversational interactions; support the addition of new knowledge and allow the operation of programmatic constructs such as compositionality; and facilitate abstractions for explaining decisions using high-level concepts. These traits are crucial for creating explainable AI systems. -->
