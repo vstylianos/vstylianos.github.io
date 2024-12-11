@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper on Dialectical Reconciliation via Structured Argumentation accepted at KR 2024.
+Paper on [Dialectical Reconciliation via Structured Argumentation](https://proceedings.kr.org/2024/73/kr2024-0073-vasileiou-et-al.pdf) accepted at KR 2024.

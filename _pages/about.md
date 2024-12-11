@@ -9,7 +9,9 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p>  <a href="mailto:v.stylianos@wustl.edu" class="fas fa-envelope"> <a/>  <a href="https://twitter.com/the_logicizer"  class="fab fa-twitter" target="_blank"> <a/> </p>
+     <p>  <a href="mailto:v.stylianos@wustl.edu" class="fas fa-envelope"> <a/>  <a href="https://scholar.google.com/citations?user=nL7mNGQAAAAJ&hl=en"  class="fa fa-graduation-cap" target="_blank"> <a/> </p>
+
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
