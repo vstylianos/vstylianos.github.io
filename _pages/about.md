@@ -23,7 +23,7 @@ Assistant Professor, [Department of Computer Science](https://computerscience.nm
 [New Mexico State University](nmsu.edu)
 
 
-I lead the laboratory for Human-AI Psychology at New Mexico State University, where we are interested in understanding the nature and dynamics of human-AI interaction and collaboration. Our research involves various exciting research questions, such as how to effectively model human users, and how to explain the decisions and decision-making processes of AI systems to human users.
+My current research agenda is on understanding the nature and dynamics of human-AI interaction and collaboration. Particularly, I explore various exciting questions, such as how to effectively model human behaviors and expectations, and how to explain the decisions of AI systems to human users in a natural fashion. I draw a lot of ideas and techniques from several fields, including logic, planning, machine learning, as well as philosophy and cognitive psychology.
 
 Prior to joining NMSU, I completed my PhD at the McKelvey School of Engineering at Washington University in St. Louis, supervised by the amazing [William Yeoh](https://yeoh-lab.wustl.edu/). Within a preceding historical epoch, I received a MSc. in Artificial Intelligence from the University of Southampton (UK), supervised by [Long Tran-Thanh](https://human-agentlearning.github.io/HAL-LAB.html), a MSc. in Applied Mathematics from the University of Glasgow (UK), supervised by [Radostin Simitev](https://www.maths.gla.ac.uk/~rs/), and finally a BSc. in Statistics and Actuarial-Financial Mathematics from the University of the Aegean (GR), supervised by [Nikolaos Kavallaris](https://www.kau.se/forskare/nikos-kavallaris).
 
