@@ -13,7 +13,7 @@ selected_papers: true
 
 
 <figure style="position: relative; width: 100%; height: auto;">
-    <img class="img-fluid rounded z-depth-1" style="float: left; margin-right: 25px; width: 240px; height: 240px;" src="{{'../assets/img/HAI_logo.png' | relative_url }}" alt="" title="haxp image"/>
+    <img class="img-fluid rounded z-depth-1" style="float: left; margin-right: 25px; width: 240px; height: 240px;" src="/assets/img/HAI_logo.png" alt="" title="haxp image"/>
     <figcaption style="text-align:left; margin-left: 5px;">
       My current research agenda focuses on developing human-aware AI systems that can: 
 
