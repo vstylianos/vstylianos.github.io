@@ -9,7 +9,7 @@ profile:
   image: profile-stelios.png
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p>  <a href="mailto:v.stylianos@wustl.edu" class="fas fa-envelope"> <a/>  <a href="https://scholar.google.com/citations?user=nL7mNGQAAAAJ&hl=en"  class="fa fa-graduation-cap" target="_blank"> <a/> </p>
+     <p>  <a href="mailto:stelios@nmsu.edu" class="fas fa-envelope"> <a/>  <a href="https://scholar.google.com/citations?user=nL7mNGQAAAAJ&hl=en"  class="fa fa-graduation-cap" target="_blank"> <a/> </p>
 
 
 
@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 Assistant Professor, [Department of Computer Science](https://computerscience.nmsu.edu/)
 <br>
-[New Mexico State University](nmsu.edu)
+[New Mexico State University](https://nmsu.edu)
 
 
 My current research agenda is on understanding the nature and dynamics of human-AI interaction and collaboration. Particularly, I explore various exciting questions, such as how to effectively model human behaviors and expectations, and how to explain the decisions of AI systems to human users in a natural fashion. I draw a lot of ideas and techniques from several fields, including logic, planning, machine learning, as well as philosophy and cognitive psychology.
