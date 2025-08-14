@@ -1,9 +1,9 @@
 name: Build and Deploy
 on:
   push:
-    branches: [ "main" ]  # Change to your default branch name
+    branches: [ "master" ]  
   pull_request:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 permissions:
   contents: read
