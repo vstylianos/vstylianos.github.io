@@ -64,11 +64,15 @@ GEM
     feedjira (3.2.5)
       loofah (>= 2.3.1, < 3)
       sax-machine (>= 1.0, < 2)
+    ffi (1.17.2)
     ffi (1.17.2-arm64-darwin)
     ffi (1.17.2-x86_64-darwin)
     forwardable (1.3.3)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
+    google-protobuf (4.31.1)
+      bigdecimal
+      rake (>= 13)
     google-protobuf (4.31.1-arm64-darwin)
       bigdecimal
       rake (>= 13)
@@ -155,6 +159,7 @@ GEM
     latex-decode (0.4.0)
     libv8-node (24.1.0.0-arm64-darwin)
     libv8-node (24.1.0.0-x86_64-darwin)
+    libv8-node (24.1.0.0-x86_64-linux)
     liquid (4.0.4)
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -166,6 +171,7 @@ GEM
     matrix (0.4.3)
     mercenary (0.4.0)
     mini_mime (1.1.5)
+    mini_portile2 (2.8.9)
     mini_racer (0.19.0)
       libv8-node (~> 24.1.0.0)
     minitest (5.25.5)
@@ -173,6 +179,9 @@ GEM
       bigdecimal (~> 3.1)
     namae (1.2.0)
       racc (~> 1.7)
+    nokogiri (1.18.9)
+      mini_portile2 (~> 2.8.2)
+      racc (~> 1.4)
     nokogiri (1.18.9-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.18.9-x86_64-darwin)
@@ -193,6 +202,9 @@ GEM
     rexml (3.4.1)
     rouge (4.6.0)
     safe_yaml (1.0.5)
+    sass-embedded (1.90.0)
+      google-protobuf (~> 4.31)
+      rake (>= 13)
     sass-embedded (1.90.0-arm64-darwin)
       google-protobuf (~> 4.31)
     sass-embedded (1.90.0-x86_64-darwin)
@@ -218,6 +230,7 @@ GEM
 PLATFORMS
   arm64-darwin
   x86_64-darwin
+  x86_64-linux
 
 DEPENDENCIES
   classifier-reborn
