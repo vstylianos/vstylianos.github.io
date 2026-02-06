@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: left
   image: profile-stelios.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
      <p>  <a href="mailto:stelios@nmsu.edu" class="fas fa-envelope"></a>  <a href="https://scholar.google.com/citations?user=nL7mNGQAAAAJ&hl=en"  class="fa fa-graduation-cap" target="_blank"></a> </p>
 
@@ -22,8 +22,7 @@ Assistant Professor, [Department of Computer Science](https://computerscience.nm
 <br>
 [New Mexico State University](https://nmsu.edu)
 
-
-My current research agenda is on understanding the nature and dynamics of human-AI interaction and collaboration. Particularly, I explore various exciting questions, such as how to effectively model human behaviors and expectations, and how to explain the decisions of AI systems to human users in a natural fashion. I draw a lot of ideas and techniques from several fields, including logic, planning, machine learning, as well as philosophy and cognitive psychology.
+My research focuses on building AI systems that can effectively interact with and explain their decisions to human users. Central to my work is the idea that good interactions require reasoning about the user's perspective — their knowledge, beliefs, and goals — in order to not only reconcile differences in understanding but also to collaborate effectively on shared tasks. I approach these problems using ideas and tools from knowledge representation & reasoning (argumentation, formal logic, planning), neurosymbolic AI, cognitive psychology, and philosophy.
 
 Prior to joining NMSU, I completed my PhD at the McKelvey School of Engineering at Washington University in St. Louis, supervised by the amazing [William Yeoh](https://yeoh-lab.wustl.edu/). Within a preceding historical epoch, I received a MSc. in Artificial Intelligence from the University of Southampton (UK), supervised by [Long Tran-Thanh](https://human-agentlearning.github.io/HAL-LAB.html), a MSc. in Applied Mathematics from the University of Glasgow (UK), supervised by [Radostin Simitev](https://www.maths.gla.ac.uk/~rs/), and finally a BSc. in Statistics and Actuarial-Financial Mathematics from the University of the Aegean (GR), supervised by [Nikolaos Kavallaris](https://www.kau.se/forskare/nikos-kavallaris).
 
