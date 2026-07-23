@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Extremely fortunate to have received three awards from three wonderful communities: the *2026 Early Career Award* from KR, the *2026 Outstanding Dissertation Award* from ICAPS, and the *2026 Turner Best Dissertation Award* from Washington University in St. Louis.
+Extremely fortunate to have received the [KR 2026 Early Career Award](https://kr.org/KR2026/index.html), the [ICAPS 2026 Outstanding Dissertation Award](https://www.icaps-conference.org/icaps-awards/), and the [Turner Dissertation Award](https://cse.washu.edu/academics/graduate/Turner-Dissertation-Award.html)!
