@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: left
   image: profile-stelios.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
      <p>  <a href="mailto:stelios@nmsu.edu" class="fas fa-envelope"></a>  <a href="https://scholar.google.com/citations?user=nL7mNGQAAAAJ&hl=en"  class="fa fa-graduation-cap" target="_blank"></a> </p>
 
