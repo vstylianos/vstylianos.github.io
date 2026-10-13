@@ -34,6 +34,17 @@ table {
   }
 }
 
+// larger text for page descriptions and news; publication lists keep the default size
+.post article,
+.news table td,
+.news table th {
+  font-size: 1.15rem;
+}
+
+.post article .publications {
+  font-size: 1rem;
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);
@@ -285,6 +296,26 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
+  }
+
+  .navbar-brand.haip-brand {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0;
+
+    .haip-icon {
+      height: 58px;
+    }
+
+    .haip-wordmark {
+      height: 46px;
+    }
+  }
+
+  // the wordmark is dark navy on transparent; lighten it in dark mode (keeps the orange dot)
+  html[data-theme="dark"] & .navbar-brand.haip-brand .haip-wordmark {
+    filter: invert(1) hue-rotate(180deg);
   }
 
   .navbar-nav .nav-item .nav-link {
@@ -625,6 +656,13 @@ footer.sticky-bottom {
   .card {
     img {
       width: 100%;
+      aspect-ratio: 3 / 2;
+      object-fit: cover;
+    }
+
+    // equal card heights regardless of how many lines the title wraps to
+    .card-body {
+      min-height: 11rem;
     }
   }
 

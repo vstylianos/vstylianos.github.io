@@ -22,7 +22,13 @@ Assistant Professor, [Department of Computer Science](https://computerscience.nm
 <br>
 [New Mexico State University](https://nmsu.edu)
 
-My research focuses on building AI systems that can effectively interact with and explain their decisions to human users. Central to my work is the idea that good interactions require reasoning about the user's perspective — their knowledge, beliefs, and goals — in order to not only reconcile differences in understanding but also to collaborate effectively on shared tasks. I approach these problems using ideas and tools from knowledge representation & reasoning (argumentation, formal logic, planning), neurosymbolic AI, cognitive psychology, and philosophy.
+Hey there! I'm Stelios, currently an assistant professor of AI and CS at NMSU. I lead the [Laboratory for Human-AI Interaction & Psychology](/projects/), where we explore questions such as how can human-AI synergy can lead to "better" decisions (what does better mean, you ask? <span style="font-size: 1.4em; line-height: 1;">🤷</span>) in domains like policymaking. 
 
-Prior to joining NMSU, I completed my PhD at the McKelvey School of Engineering at Washington University in St. Louis, supervised by the amazing [William Yeoh](https://yeoh-lab.wustl.edu/). Within a preceding historical epoch, I received a MSc. in Artificial Intelligence from the University of Southampton (UK), supervised by [Long Tran-Thanh](https://human-agentlearning.github.io/HAL-LAB.html), a MSc. in Applied Mathematics from the University of Glasgow (UK), supervised by [Radostin Simitev](https://www.maths.gla.ac.uk/~rs/), and finally a BSc. in Statistics and Actuarial-Financial Mathematics from the University of the Aegean (GR), supervised by [Nikolaos Kavallaris](https://www.kau.se/forskare/nikos-kavallaris).
+Prior to joining NMSU, I completed my PhD at the McKelvey School of Engineering at Washington University in St. Louis, supervised by the amazing [William Yeoh](https://yeoh-lab.wustl.edu/). Many epochs ago, I received a MSc. in Artificial Intelligence from the University of Southampton (UK), supervised by [Long Tran-Thanh](https://human-agentlearning.github.io/HAL-LAB.html), a MSc. in Applied Mathematics from the University of Glasgow (UK), supervised by [Radostin Simitev](https://www.maths.gla.ac.uk/~rs/), and finally a BSc. in Statistics and Actuarial-Financial Mathematics from the University of the Aegean (GR), supervised by [Nikolaos Kavallaris](https://www.kau.se/forskare/nikos-kavallaris).
+
+**New students:** I am unfortunately not recruiting at the moment.
+
+
+
+
 

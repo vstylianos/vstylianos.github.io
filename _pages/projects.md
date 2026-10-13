@@ -8,15 +8,18 @@ nav_order: 2
 display_categories: 
 horizontal: false
 selected_papers: true
+hide_title: true
 ---
 
-
-
 <div class="col-sm-8 mx-auto">
-{% include figure.liquid path="assets/img/research_overview.png" class="img-fluid rounded z-depth-1" alt="Research overview" %}
+{% include figure.liquid path="assets/img/haip_full_web.png" class="img-fluid" alt="Laboratory for Human-AI Interaction & Psychology" %}
 </div>
 
-My research develops AI systems that can reason about and adapt to their human counterparts. On the **methods** side, I draw from knowledge representation, reasoning, and neurosymbolic AI. These tools enable research across four interconnected themes: **explainable decision-making**, **collaborative decision-making**, **user modeling**, and what I like to call, **human-AI psychology**.
+The main goal of the HAIP lab is to enable meaningful and effective **human-AI synergy**. We pursue this goal along two axis:
+
+**Synergistic Human-AI Decision-Making:** The goal here is to design AI agents that reason *with* people rather than *for* them. For example, such an agent works from a shared, explicit representation of the decision and its reasons, keeps a model of what the person knows and believes, and revises both as the interaction unfolds. To do this, we use a lot of neurosymbolic AI methods, such as combining logic, and computational argumentation with neural-based models.
+
+**Human-AI Psychology:** We also study how people and AI agents actually reason, both on their own and together. We do this mechanistically (a lá neuroscience) and behaviorally (a lá cogsci and psychology).
 
 
 
