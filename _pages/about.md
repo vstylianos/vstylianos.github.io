@@ -22,7 +22,7 @@ Assistant Professor, [Department of Computer Science](https://computerscience.nm
 <br>
 [New Mexico State University](https://nmsu.edu)
 
-Hey there! I'm Stelios, currently an assistant professor of AI and CS at NMSU. I lead the [Laboratory for Human-AI Interaction & Psychology](/projects/), where we explore questions such as how can human-AI synergy can lead to "better" decisions (what does better mean, you ask? <span style="font-size: 1.4em; line-height: 1;">🤷</span>) in domains like policymaking. 
+Hey there! I'm Stelios, currently an assistant professor of AI and CS at NMSU. I lead the [Laboratory for Human-AI Interaction & Psychology](/projects/), where we explore questions such as how human-AI synergy can lead to "better" decisions (what does better mean, you ask? <span style="font-size: 1.4em; line-height: 1;">🤷</span>) in domains like policymaking. 
 
 Prior to joining NMSU, I completed my PhD at the McKelvey School of Engineering at Washington University in St. Louis, supervised by the amazing [William Yeoh](https://yeoh-lab.wustl.edu/). Many epochs ago, I received a MSc. in Artificial Intelligence from the University of Southampton (UK), supervised by [Long Tran-Thanh](https://human-agentlearning.github.io/HAL-LAB.html), a MSc. in Applied Mathematics from the University of Glasgow (UK), supervised by [Radostin Simitev](https://www.maths.gla.ac.uk/~rs/), and finally a BSc. in Statistics and Actuarial-Financial Mathematics from the University of the Aegean (GR), supervised by [Nikolaos Kavallaris](https://www.kau.se/forskare/nikos-kavallaris).
 
