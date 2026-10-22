@@ -19,7 +19,7 @@ The main goal of the HAIP lab is to enable meaningful and effective **human-AI s
 
 **Synergistic Human-AI Decision-Making:** The goal here is to design AI agents that reason *with* people rather than *for* them. For example, such an agent works from a shared, explicit representation of the decision and its reasons, keeps a model of what the person knows and believes, and revises both as the interaction unfolds. To do this, we use a lot of neurosymbolic AI methods, such as combining logic, and computational argumentation with neural-based models.
 
-**Human-AI Psychology:** We also study how people and AI agents actually reason, both on their own and together. We do this mechanistically (à la neuroscience) and behaviorally (à la cogsci and psychology).
+**Human-AI Psychology:** We also study how people and AI agents behave, both on their own and together, and how they influence one another under various scenarios. We do this mechanistically (à la neuroscience) and behaviorally (à la cogsci and psychology).
 
 
 
